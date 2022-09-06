@@ -11,7 +11,7 @@
 
 
 If(Get-InstalledModule ImportExcel) {
-break
+Write-Host "ok"
 }
 else{
 Install-Module -Name ImportExcel
