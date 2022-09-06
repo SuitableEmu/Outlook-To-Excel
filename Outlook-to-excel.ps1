@@ -7,6 +7,7 @@
         Takes text from a specified e-mail (or multiple e-mails) and enters it into a text file.
 }
 
+#>
 
 
 If(Get-InstalledModule ImportExcel) {
